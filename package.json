@@ -1,0 +1,7 @@
+{
+  "name":"cheat-gamble-api",
+  "private":true,
+  "type":"commonjs",
+  "scripts":{"start":"node server.js"},
+  "dependencies":{"better-sqlite3":"^11.10.0","express":"^5.1.0"}
+}
